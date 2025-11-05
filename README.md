@@ -28,3 +28,5 @@ It will look like this if you gave the part "Teleport1" the name "DifferentName"
 local teleport1 = game.Workspace:FindFirstChild("Teleport1") -> local teleport1 = game.Workspace:FindFirstChild("DifferentName")
 
 In the 2 part scripts you can change the cooldown time for teleporting again. You have to change the last line of the script (before the 3x end).
+
+Screenshot: The 2 Touchinterests in the scripts are irrelavent. they appear when you start the testing mode.
